@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on MLOps & Data Stories.
 - 💬 Ask me about: Machine Learning, Data Science
-- 📫 How to reach me: aiplaybook.in@gmail.com / vikash.kr.117@gmail.com
+- 📫 How to reach me: vikash.kr.117@gmail.com
 
 
 <!--
