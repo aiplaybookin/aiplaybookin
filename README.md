@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on MLOps & Data Stories.
+- 🔭 I’m currently working on LLMs, MLOps & Data Stories.
 - 💬 Ask me about: Machine Learning, Data Science
 - 📫 How to reach me: vikash.kr.117@gmail.com
 
